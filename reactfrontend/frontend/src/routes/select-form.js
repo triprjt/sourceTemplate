@@ -45,8 +45,8 @@ function SelectForm({}) {
     res.then((a) => {
       console.log(a.data);
       const formJSON1 = convertJSON(JSON.parse(a.data));
-      localStorage.setItem("form_template", JSON.stringify(formJSON1));
       setSourceSelectionDisplay(false);
+      localStorage.setItem("form_template", JSON.stringify(formJSON1));
     });
   };
 
