@@ -9,7 +9,7 @@ Tech Stack : Backend – Django | Frontend – react.js
 how to install?
 
 - step 1. git clone repo in your local directory
-- step 2. go to root/djangobackend/backend/ -> run command: 'pip install requirements.txt' (or install these listed packages one by one)
+- step 2. go to root/djangobackend/backend/ -> run command: 'pip install -r requirements.txt' (or install these listed packages one by one)
 - step 3. go to root/reactfrontend/frontend/ -> run command: 'npm install' 
 - step 4. from the directory root/djangobackend/backend/, start backend server; run command: 'python3 mangage.py runserver
 - step 5. from the directory root/reactfrontend/frontend/, start frontend server; run command: 'npm start'
