@@ -1,6 +1,6 @@
 # source-template
 
-The problem statement: https://rudderstacks.notion.site/Full-stack-SDE-2-assignment-e5f0596de2584171a22a0280243a541e
+The problem statement: Create a full stack app such that the end user has to submit a form. Also the admin can make edit at the backend in order to change the form schema.
 
 Tech Stack : Backend – Django | Frontend – react.js
 
