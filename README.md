@@ -1,4 +1,4 @@
-# rudstck-assignment
+# source-template
 
 The problem statement: https://rudderstacks.notion.site/Full-stack-SDE-2-assignment-e5f0596de2584171a22a0280243a541e
 
