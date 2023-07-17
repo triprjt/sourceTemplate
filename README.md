@@ -15,6 +15,3 @@ how to install?
 - step 5. from the directory root/reactfrontend/frontend/, start frontend server; run command: 'npm start'
 - step 6. go to localhost:8000/admin/ login with admin user credentials.Here you can see the database and the admin panel
 - step 7. go to localhost:3000/ ->  here you can see the homepage of the app.
-
-- Please refer this working demo:
-[Link](https://drive.google.com/file/d/1V2JnGCklwFyUXWjONZ_fBtpoNVIa8sXh/view?usp=share_link)
